@@ -6,7 +6,7 @@ authors = ["colinhofer <colin.hofer@proton.me>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.10"
 pydantic = "^2.9.2"
 aiohttp = "^3.11.2"
 asyncpg = "^0.30.0"
