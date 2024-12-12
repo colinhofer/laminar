@@ -1,6 +1,5 @@
 poetry.lock
 laminar2.py 
 test.py
-DS_Store
+.DS_Store
 .venv
-temp.toml
