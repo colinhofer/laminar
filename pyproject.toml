@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "laminar"
+version = "0.1.0"
+description = ""
+authors = ["colinhofer <colin.hofer@proton.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pydantic = "^2.9.2"
+aiohttp = "^3.11.2"
+asyncpg = "^0.30.0"
+polars = "^1.14.0"
+aiosqlite = "^0.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
